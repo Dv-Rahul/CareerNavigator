@@ -79,7 +79,7 @@ EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 - The user interface of the website is basic which should be improved.
 
 ## Team 
-- Khyathi Kancharla 
+- Devineni Venkata Rahul
 - Salman Khan
 - Teja Sai
 - Pujitha Sayana
