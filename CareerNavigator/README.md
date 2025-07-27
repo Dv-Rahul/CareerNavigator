@@ -48,7 +48,7 @@ py manage.py createsuperuser
 ![exams](https://github.com/KhyathiKancharla/CareerNavigator/assets/110332342/c8392e88-f358-41f5-bfc5-dc047ff1eb44)
 
 ## Drawbacks/LoopHoles
-- Need to make the application responsive.
+- Need to make the application more responsive.
 - The user interface of the website is basic which should be improved.
 
 ## Team 
