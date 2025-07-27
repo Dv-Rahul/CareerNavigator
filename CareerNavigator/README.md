@@ -35,7 +35,6 @@ py manage.py createsuperuser
 - get few roles suggested from the users skills
 
 
-```
 ## Screenshots
 
 ![index](https://github.com/KhyathiKancharla/CareerNavigator/assets/110332342/c8ffc4f0-c3cb-4654-b7df-247e1469fd29 )
