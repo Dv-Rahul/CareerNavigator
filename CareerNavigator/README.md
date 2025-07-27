@@ -53,6 +53,6 @@ py manage.py createsuperuser
 
 ## Team 
 - Devineni Venkata Rahul
-- Salman Khan
+- Kyathi kancharla
 - Teja Sai
 - Pujitha Sayana
